@@ -12,6 +12,13 @@ Podemos utilizar o CSS de três formas:
    ```
 2. **_CSS Interno_**: Declarando regras dentro da tag <style> no próprio HTML.
 
+```html
+<style>
+  body {
+  }
+</style>
+
 3. **_CSS Inline_**: Aplicando estilos diretamente na tag HTML.
 
 <p style="color: blue; font-size: 18px;">Este é um exemplo de CSS inline.</p>
+```
