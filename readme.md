@@ -17,9 +17,9 @@ Podemos utilizar o CSS de três formas:
   body {
   }
 </style>
-``` 
-3. **_CSS Inline_**: Aplicando estilos diretamente na tag HTML. ```html
+``` 3. **_CSS Inline_**: Aplicando estilos diretamente na tag HTML. ```html
 <h1 style="color: blue;">
   <p style="color: blue; font-size: 18px;">Este é um exemplo de CSS inline.</p>
 </h1>
+```
 ````
