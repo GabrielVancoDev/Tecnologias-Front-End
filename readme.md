@@ -40,4 +40,23 @@ O HTML tem Seletores que são utilizado no CSS que são:<br>
 
 ```HTML
     <div class="cor-branca" id="texto1">Este texto pertence ao id texto e pertence a classe cor-branca</div>
+
 ```
+
+<tr>
+
+## Unidades de Medida no CSS
+
+O CSS possui diferentes unidades para definir tamanhos, larguras, alturas, espaçamentos, etc. Aqui estão algumas das mais comuns:<br>
+
+**Absolutas:**
+
+_`px (Pixels)`_ – Unidade fixa, usada para definir tamanhos exatos.
+_`pt (Pontos)`_ – Comum em impressão, mas pouco usado na web.
+
+**Relativas:**
+
+*`%`* – Proporcional ao elemento pai.
+*`em`* – Relativo ao tamanho da fonte do elemento pai.
+*`rem`* – Relativo ao tamanho da fonte do elemento raiz (html).
+*`vh`* / vw – Porcentagem da altura ou largura da tela
