@@ -31,12 +31,13 @@ Podemos utilizar o CSS de três formas:
 
 ## Conhecendo Seletores
 
-O HTML tem Seletores que são utilizado no CSS que são:
-1- ID
-2- Classe
+O HTML tem Seletores que são utilizado no CSS que são:<br>
+
+1. **_ID_**
+1. **_Classe_**
 
 **Exemplos:**
 
 ```HTML
-    <div class="cor-branca" id="container">
+    <div class="cor-branca" id="texto1">Este texto pertence ao id texto e pertence a classe cor-branca</div>
 ```
