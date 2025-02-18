@@ -21,8 +21,22 @@ Podemos utilizar o CSS de três formas:
 
 3. **_CSS Inline_**: Aplicando estilos diretamente na tag HTML.
 
- ```html
+```html
 <h1 style="color: blue;">
   <p style="color: blue; font-size: 18px;">Este é um exemplo de CSS inline.</p>
 </h1>
+```
+
+<tr>
+
+## Conhecendo Seletores
+
+O HTML tem Seletores que são utilizado no CSS que são:
+1- ID
+2- Classe
+
+Exemplos:
+
+```HTML
+    <div class="cor-branca" id="container">
 ```
