@@ -35,7 +35,7 @@ O HTML tem Seletores que são utilizado no CSS que são:
 1- ID
 2- Classe
 
-Exemplos:
+**Exemplos:**
 
 ```HTML
     <div class="cor-branca" id="container">
