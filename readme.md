@@ -56,7 +56,19 @@ _`pt (Pontos)`_ – Comum em impressão, mas pouco usado na web.
 
 **Relativas:**
 
-*`%`* – Proporcional ao elemento pai.
-*`em`* – Relativo ao tamanho da fonte do elemento pai.
-*`rem`* – Relativo ao tamanho da fonte do elemento raiz (html).
-*`vh`* / vw – Porcentagem da altura ou largura da tela
+_`%`_ – Proporcional ao elemento pai.<br>
+_`em`_ – Relativo ao tamanho da fonte do elemento pai.<br>
+_`rem`_ – Relativo ao tamanho da fonte do elemento raiz (html).<br>
+_`vh`_ / vw – Porcentagem da altura ou largura da tela<br>
+
+```HTML
+.container {
+  width: 80%;
+  height: 50vh;
+  font-size: 1.2em;
+}
+```
+
+<tr>
+
+## Cores e transparencia
