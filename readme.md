@@ -76,12 +76,33 @@ _`vh`_ / vw – Porcentagem da altura ou largura da tela<br>
 Cores e Transparência no CSS
 No CSS, podemos definir cores de várias formas:<br>
 
-1- **Nomes de cores:** _`red, blue, green, etc.`_
-2- **Hexadecimal:** _` #ff0000 (vermelho), #00ff00 (verde).`_
-3- **RGB:** _`rgb(255, 0, 0) (vermelho).`_
+1- **Nomes de cores:** _`red, blue, green, etc.`_\<br>
+2- **Hexadecimal:** _` #ff0000 (vermelho), #00ff00 (verde).`_<br>
+3- **RGB:** _`rgb(255, 0, 0) (vermelho).`_<br>
 
 ```HTML
     body{
         color: rgb(255, 0, 0) (vermelho);
     }
+```
+
+## Fontes e Tipografia no CSS
+
+O CSS permite controlar a aparência do texto com propriedades como: <br>
+
+**font-family** – Define a fonte do texto.
+**font-size** – Controla o tamanho da fonte.
+**font-weight** – Define a espessura (negrito).
+**text-align** – Alinha o texto (left, center, right, justify).
+**line-height** – Define o espaçamento entre linhas.
+Exemplo:
+
+```HTML
+p {
+  font-family: 'Arial', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: justify;
+  line-height: 1.5;
+}
 ```
